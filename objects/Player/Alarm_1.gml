@@ -1,0 +1,1 @@
+attack_ready = true

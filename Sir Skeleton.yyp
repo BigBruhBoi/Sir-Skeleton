@@ -39,6 +39,7 @@
     {"id":{"name":"regattack","path":"objects/regattack/regattack.yy",},},
     {"id":{"name":"test","path":"objects/test/test.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"SPR_commoner","path":"sprites/SPR_commoner/SPR_commoner.yy",},},
     {"id":{"name":"SPR_Player","path":"sprites/SPR_Player/SPR_Player.yy",},},
     {"id":{"name":"SPR_regattack","path":"sprites/SPR_regattack/SPR_regattack.yy",},},
     {"id":{"name":"Spr_wall","path":"sprites/Spr_wall/Spr_wall.yy",},},

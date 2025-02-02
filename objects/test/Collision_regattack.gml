@@ -1,0 +1,1 @@
+health_points = health_points -1

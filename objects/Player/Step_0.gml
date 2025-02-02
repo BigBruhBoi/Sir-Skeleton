@@ -23,5 +23,6 @@ if attack_ready = true
 		instance_create_layer(x,y,"Instances",regattack)
 		attack_ready = false
 		alarm_set(1,30)
+		bones = bones -1
 	}
 }
